@@ -16,20 +16,4 @@ new_users:
       sudo: False
       sudo_nopwd: True
 
-#     - name: 'acxjay'
-#       uid: '502'
-#       gid: "{{ acx_group }}"
-#       gecos: 'Jay Lushington'
-#       passwd: "Passwd1234"
-#       sudo: True
-#       sudo_nopwd: False
-# 
-#     - name: 'acxgigi'
-#       uid: '503'
-#       gid: "{{ acx_group }}"
-#       gecos: 'Gigi Mathew'
-#       passwd: "Passwd1234"
-#       sudo: True
-#       sudo_nopwd: False
-# 
 
